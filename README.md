@@ -35,4 +35,6 @@ than its successor HDBSCAN.
 
 #### run the python script using X:>python clusterscan.py
 
+[!alt text]https://github.com/kennedyCzar/clustering/blob/master/images/Figure_3.png
+
 #### Observe your output as they roll out one after the other...Close to see next image
