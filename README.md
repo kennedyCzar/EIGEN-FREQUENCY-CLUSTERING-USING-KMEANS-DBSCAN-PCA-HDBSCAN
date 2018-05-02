@@ -30,7 +30,7 @@ than its successor HDBSCAN.
 ### Change the directory location of your data in the clusterscan.py
 ##### os.chdir(" change to your folder directory here")
 
-### Preprocess be removing all unnneeded columns or simply by
+### Preprocess by removing all unneeded columns or simply by
 ### calling the needed column using pandas Dataframe(See online references for this...)
 
 #### run the python script using X:>python clusterscan.py
