@@ -1,4 +1,4 @@
-#imort the required libraries
+#import the required libraries
 import numpy as np
 from sklearn.cluster import DBSCAN
 import matplotlib.pyplot as plt
