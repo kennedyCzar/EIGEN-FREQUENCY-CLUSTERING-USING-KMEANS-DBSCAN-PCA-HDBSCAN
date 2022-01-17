@@ -1,9 +1,9 @@
 # clustering
 EIGEN FREQUENCY CLUSTERING USING [KMEANS] [KMEANS &amp; PCA ] [DBSCAN] [HDBSCAN]
 
-Kmeans has been used over the years as a clustering algorithm and quite reasonably performed very well. 
+KMeans has been used over the years as a clustering algorithm and quite reasonably performed very well. 
 Its approval however is not due to any complex structure but a rather subtle appraoch towards data clustering using K-value(this value 
-is the number of cluster using their mean. ) This mean value then serves as a refernce point for the clusters sorrounding it.
+is the number of mean centroids). These mean values then serve as a refernce point for the clusters sorrounding it.
 
 As simple and nicely as KMeans may try to solve our clustering problem. It would howvere fall short of clustering data
 containing very noisy observation. This is therefore the disadvantage of Kmeans.
